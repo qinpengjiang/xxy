@@ -18,7 +18,7 @@ name: EMAIL
 value: 你的邮箱地址     (用于接收签到提醒  Code=20000 表示签到成功)此添加为选用
 
 name: SCKEY
-value: Server酱接口号  (用于微信Server酱接收签到提醒 如SCU95156T515985ffca658bf1b801c24983lm77215ea134d3265nm )此添加为选用
+value: Server酱接口号  (用于微信Server酱接收签到提醒 如SCU95156T515985ffca658bf1b801c24983lm77215ea134d32)此添加为选用
 
 
 
