@@ -3,7 +3,7 @@
 
 自动签到时间：上午8点 下午14点
 
-在Setting里的secrets添加参数如下：
+在Setting里的secrets添加参数如下
 
 name: USER
 value: 账号 密码 学校代码     （用空格或回车分开）
